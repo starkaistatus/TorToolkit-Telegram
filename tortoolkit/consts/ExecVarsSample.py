@@ -7,14 +7,14 @@ except:
         
         API_HASH = "d28109d5fd13dd9c9e87c90e8c4ff7c5"
         API_ID = 5401122
-        BOT_TOKEN = "5468463263:AAGM4L8C18-PBYlkBfymsnV_Y1jVSwIwVJs"
+        BOT_TOKEN = "5450160033:AAFn__24TQJn-0Bb-h0Y2aJqGnnkr7CNfno"
         BASE_URL_OF_BOT = "starkai.live"
 
         # Edit the server port if you want to keep it default though.
         SERVPORT = 80
 
         # ALLOWED USERS [ids of user or supergroup] seperate by commas
-        ALD_USR = [-1001513295522]
+        ALD_USR = [-1001513295522, -1001818533677]
         OWNER_ID = 2141745029
         
         # Google Drive Index Link should include the base dir also See readme for more info
